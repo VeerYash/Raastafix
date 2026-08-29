@@ -1,0 +1,11 @@
+{
+  "name": "RaastaFix",
+  "description": "RaastaFix turns one photo of a broken road into an accountable repair — AI reads the damage, routes it to the right corporation with a deadline, and contractor ratings decide who wins the next contract.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
